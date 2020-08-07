@@ -49,6 +49,6 @@ module.exports = class Client extends Discord.Client {
     }
 
     async login(token = this.token) {
-        super.login(token);
+        super.login('NzQxMzg2MzY1NjA2MDM1NDk3.Xy2z2w.D2qLhUV7Buhq3gQTRLGn1zj8Nrk');
     }
 };
